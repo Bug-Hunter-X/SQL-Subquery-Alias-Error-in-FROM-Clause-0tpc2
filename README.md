@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error involving the use of subqueries in the FROM clause without providing an alias.  The `bug.sql` file contains the erroneous query, while `bugSolution.sql` shows the corrected version.  This is a crucial concept for understanding how to correctly structure complex SQL queries involving subqueries.
